@@ -50,3 +50,18 @@ body{
     visibility: visible;
     opacity: 1;
 }
+
+#textToChange {
+    border-radius: 10px;
+    height: 40px;
+    min-width: 60vw;
+    border-color: blueviolet;
+}
+
+#copiar {
+    border-radius: 10px;
+    height: 40px;
+    min-width: 40vw;
+    background-color:rgb(204, 204, 243);
+    border-color: blueviolet;
+}
